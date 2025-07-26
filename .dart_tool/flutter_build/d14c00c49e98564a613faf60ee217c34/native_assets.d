@@ -1,0 +1,1 @@
+ C:\\Users\\aksen\\Development\\Dart\ Projects\\xylophone\\.dart_tool\\flutter_build\\d14c00c49e98564a613faf60ee217c34\\native_assets.yaml: 
